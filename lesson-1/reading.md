@@ -53,7 +53,29 @@ And how much learning do we need to do to prevent ourselves from forgetting stuf
 
 ### The Forgetting Curve and Spaced Repetition
 
+Back in the late 1800s, the German psychologist Hermann Ebbinghaus conducted an experiment on himself by memorizing thousands of nonsense syllables and seeing how many he remembered over time. These results, when graphed, created what is called the "forgetting curve", which shows approximately exponential decay - in other words, as time passes you forget stuff.
 
+This is intuitive if somewhat underwhelming, but it's also the foundational idea for Ebbinghaus's hypothesized methods for remembering. Among other interesting conclusions (which we will cover later in this course), Ebbinghaus identified two main methods for consistently increasing strength of memory:
+
+1. Easier representation (like mnemonics)
+2. Active, spaced repetition
+
+The first of these methods merits its own discussion, and will get one later in this course, but we will focus on the second method here. At first glance, it might seem like another incredibly obvious statement - review something to remember it - but here, the details are what make the technique work.
+
+Spaced repetition is the act of reviewing something at "spaced" intervals, which, if done right, lessens the decay of the forgetting curve. The optimal spacing, it turns out, is in increasing intervals; initially, you should review information very soon to when you first learn it (University of Waterloo recommends "within 24 hours"; Anki, a popular memory program (more later!) generally starts with an interval of 1-5 days), but as you progress, you may need to only review once a month, once a year, or even less than that to keep the information stable in your memory!
+
+You should make sure to constantly review: continually practicing information will signal to your brain that remembering it is important, but neglecting review will tell your brain it's OK to forget it.
+This is how summer slide works - during the school year, your brain hangs on to the information it needs to pass quizzes and tests, but during summer, the information is no longer necessary and is forgotten.
+
+There are many ways to practice with spaced repetition nowadays, and we will be going over one of the most convenient and popular ways to do so. First, though, let's answer a question you might be asking: Isn't rote memorization a bad way to learn? Why are we optimizing for memorization instead of, say, understanding?
+
+### Why Memorize?
+
+Increasingly, modern learning methods have shifted away from rote memorization as a tool for comprehension. Tests are open-note, open-book, or have formula sheets provided; homework is designed to be used with reference tables for constants and equations; and memorizing times tables is associated mostly with dusty antebellum-era classrooms with armies of neatly-dressed students chanting, "Two times two makes four, two times three makes six..."
+
+To clarify, I am not advocating for the return of rote memory as the *core* of learning (I rely too much on formula sheets to do so). Having these resources is beneficial, and allows us to free up effort from memorizing dreary lists of numbers to instead use it on conceptual understanding.
 
 ### Sources
-- https://www.brookings.edu/articles/summer-learning-loss-what-is-it-and-what-can-we-do-about-it/
+- https://www.brookings.edu/articles/summer-learning-loss-what-is-it-and-what-can-we-do-about-it/ Summer slide.
+- https://archive.org/details/memorycontributi00ebbiuoft/page/22/mode/2up Ebbinghaus's text about his experiment.
+- https://web.archive.org/web/20170329184930/https://uwaterloo.ca/counselling-services/curve-forgetting
