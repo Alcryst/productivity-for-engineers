@@ -73,7 +73,31 @@ There are many ways to practice with spaced repetition nowadays, and we will be 
 
 Increasingly, modern learning methods have shifted away from rote memorization as a tool for comprehension. Tests are open-note, open-book, or have formula sheets provided; homework is designed to be used with reference tables for constants and equations; and memorizing times tables is associated mostly with dusty antebellum-era classrooms with armies of neatly-dressed students chanting, "Two times two makes four, two times three makes six..."
 
-To clarify, I am not advocating for the return of rote memory as the *core* of learning (I rely too much on formula sheets to do so). Having these resources is beneficial, and allows us to free up effort from memorizing dreary lists of numbers to instead use it on conceptual understanding.
+To clarify, I am not advocating for the return of rote memory as the *core* of learning (I rely far too much on formula sheets to do so). Having these resources is beneficial, and allows us to free up effort from memorizing dreary lists of numbers to instead use it on conceptual understanding. In a similar vein, though, our memorization of large bases of knowledge provide a solid foundation for us to focus on what we want to learn, instead of constantly having to go back and review old content. Imagine learning a new language, for example; before you can start practicing and applying new grammar structures, you have to have a large amount of words memorized to use for practice. If you had to look up the translation of each individual word every time, you'd never make any progress on the complex stuff because you'd be too caught up in minutiae you could easily have offloaded to your memory.
+
+Of course, memory plays a much more practical role in our success by helping us remember class material for assessments. Not having to relearn content each cram session before a test frees up a significant fraction of our time to use for something more productive (or fun) than deciphering old notes.
+
+Now that we've looked at the overall reasoning for making memorization a part of our learning, let's learn how we can apply this to our study routines and lives in general.
+
+### Introduction to Anki
+
+In this course, we will focus on Anki as our main tool for memorization. Anki is, in essence, a flashcard application (available on most major platforms), which integrates the idea of spaced repetition into its reviewing structure. While there are multiple ways to review using spaced repetition (an example being the Leitner Box, a physical flashcard sorter and scheduler - look it up if you like using physical flashcards!), Anki is one of the easiest to use, automatically scheduling reviews with optimal timing. The app is also free and open source (although the main app for mobile costs a little money, the web version is free and works fine on mobile if you also have the free computer app), and has a delightfully clean interface, compared to some ad-infested flashcard websites I could name. The download links are available at **https://apps.ankiweb.net/**
+
+The core of Anki is the deck, a collection of flashcards which you can make yourself or import. Anki is especially popular among language learners and medical students, so many premade decks exist for those subjects in particular. However, I recommend making your own cards in most cases (I will describe why later in this reading).
+
+If you'd like to follow along for this section, it is highly recommended to do so on a computer. First, download Anki using the above link, then open it. You should see a button saying "Create Deck" at the bottom of the main window; press it and type in a name like "Test Deck". You should see the deck appear in the main window, with stats to the right indicating 0 new cards, 0 learning cards, 0 due cards.
+
+New cards are cards you haven't looked at yet, learning cards are ones you're repeatedly reviewing in a short span of time, and due cards are cards scheduled for review based on the spaced repetition algorithm. Let's add some cards to see how this works: click the Add tab at the top.
+
+You will see two fields labeled "Front" and "Back". These work like standard flashcards, where you see the front side then try to remember the back side. In the top right corner, you should be able to choose your test deck by clicking on the Deck button. Type "What is 1 + 1?" in the "Front" field, and "2" in the "Back" field, then click the "Add" button in the bottom left to add the card to your deck. Now click "close" in the bottom right to go back to the main window, and you'll see that "Test Deck" now has 1 card listed under New. Anki gives you a handful of new cards every day (you can configure that amount) for each deck until you've done the maximum amount that day or you've looked at every card in the deck.
+
+Click on the deck name to open the review screen. When you open the card, you'll see "What is 1 + 1?" at the top, with the "Show Answer" button at the bottom. Try to remember the answer to the question, then press "Show Answer" when you're ready. (Note: if you're reviewing and don't remember, don't immediately show the answer, spend some time thinking. This helps your brain to focus on the information and remember it better for next time.)
+
+You will see four buttons: Again, Hard, Good, and Easy, which rate how well you remembered the item on the card. The number above them shows the interval Anki will give until you next review the card (intervals of minutes/hours put the card in "Learning" status, while intervals of days move the card to the "Due" field on that day). Anki sorts cards with a metric called "ease", which accumulates with each successful review and is reset when you press "Again", to space the intervals with increasing time. Press any of the buttons to successfully review that card.
+
+This course includes an Anki deck focusing on the key points of each lesson
+
+### 
 
 ### Sources
 - https://www.brookings.edu/articles/summer-learning-loss-what-is-it-and-what-can-we-do-about-it/ Summer slide.
